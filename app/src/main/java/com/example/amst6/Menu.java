@@ -94,9 +94,6 @@ public class Menu extends AppCompatActivity {
                     reg.putExtra("imagen", getString(R.string.img5));
                         startActivity(reg);
                         finish();
-
-
-
                 }
             });
         }
@@ -111,9 +108,6 @@ public class Menu extends AppCompatActivity {
                         reg.putExtra("imagen", getString(R.string.img6));
                         startActivity(reg);
                         finish();
-
-
-
                 }
             });
         }
