@@ -18,7 +18,7 @@ public class Informacion extends AppCompatActivity {
     private String datos;
     private String desc;
     private String imagen;
-    private String fondo;
+
 
 
     @Override
@@ -36,7 +36,7 @@ public class Informacion extends AppCompatActivity {
         datos=getIntent().getExtras().get("datos").toString();
         desc=getIntent().getExtras().get("descripcion").toString();
         imagen=getIntent().getExtras().get("imagen").toString();
-        
+
         tvTitle.setText(titulo);
         tvDatos.setText(datos);
         tvDesc.setText(desc);
