@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">AMST6</string>
+
+
+    <string name="titulo1">CAPITÁN AMÉRICA: \nEl primer vengador</string>
+    <string name="datos1">Director: Joe Johnston \nProtagonistas: Chris Evans, Hugo Weaving, Hayley Atwell </string>
+    <string name="desc1">Sinopsis: (2011) Tras tres meses de someterse a un programa de entrenamiento físico y táctico, encomiendan a Steve Rogers su primera misión como Capitán América. Armado con un escudo indestructible, emprende la guerra contra la perversa organización HYDRA.</string>
+    <string name="img1">capitan</string>
+
+
+    <string name="titulo2">IRON MAN</string>
+    <string name="datos2">Director: Jon Favreau \nProtagonistas: Robert Downey Jr., Terrence Howard, Gwyneth Paltrow</string>
+    <string name="desc2">Sinopsis: (2008) Un empresario millonario construye un traje blindado y lo usa para combatir el crimen y el terrorismo.</string>
+    <string name="img2">iron</string>
+
+
+    <string name="titulo3">SPIDER-MAN</string>
+    <string name="datos3">Director: Sam Raimi \nProtagonistas: Tobey Maguire, Willem Dafoe, Kirsten Dunst</string>
+    <string name="desc3">Sinopsis: (2002) Un tímido estudiante se vuelve en un luchador contra el crimen, desde que la picadura de una araña mutante le da poderes extraordinarios.</string>
+    <string name="img3">spider</string>
+
+
+    <string name="titulo4">GUARDIANES DE LA GALAXIA</string>
+    <string name="datos4">Director: James Gunn \nProtagonistas: Chris Pratt, Zoe Saldaña, Dave Bautista, Vin Diesel.</string>
+    <string name="desc4">Sinopsis: (2014) Un aventurero espacial se convierte en la presa de unos cazadores de tesoros después de robar el orbe de un villano traicionero. Cuando descubre su poder, debe hallar la forma de unir a unos rivales para salvar al universo.
+</string>
+    <string name="img4">guardianes</string>
+
+
+    <string name="titulo5">LOS VENGADORES</string>
+    <string name="datos5">Director: Joss Whedon\nProtagonistas: Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth</string>
+    <string name="desc5">Sinopsis: (2012) El director de la Agencia SHIELD decide reclutar a un equipo para salvar al mundo de un desastre casi seguro cuando un enemigo inesperado surge como una gran amenaza para la seguridad mundial.</string>
+    <string name="img5">vengadores</string>
+
+
+    <string name="titulo6">THOR</string>
+    <string name="datos6">Director: Kenneth Branagh\nProtagonistas: Chris Hemsworth, Tom Hiddleston, Natalie Portman</string>
+    <string name="desc6">Sinopsis: (2011) Tras desatar una antigua guerra, el codicioso guerrero Thor es desterrado a la Tierra por su padre para que viva entre los hombres y descubra así el verdadero sentido de la humildad. Allí, sin sus poderes, Thor deberá enfrentarse a las fuerzas más oscuras que su mayor enemigo le enviará desde Asgard.</string>
+    <string name="img6">thor</string>
+
+</resources>
